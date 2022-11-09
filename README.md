@@ -2,7 +2,7 @@
 Scrapes and estimates the sentiment of the stock/market specific news posted on the norwegian newspaper Dagens Næringsliv's overview page.
 
 ## Data
-The other data I have uploaded into the ".zip" folder: 
+The other data I have uploaded into the ".zip" folder: \par
 all_tickers.xlsx - list of all tickers and their company name in the OBX stock index 
 norskDict.xlsx - list of positve and negative words for norwegian stock news, for sentiment analysis 
 OBStickers.xlsx - list of tickers and their sector/industry, where these are available
